@@ -3,19 +3,130 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://github.daumkakao.com/ca-tf/context-analysis-service.git" />
+          <option name="url" value="https://github.daumkakao.com/pa-dev/clix.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.daumkakao.com/pa-dev/clix-report-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://github.daumkakao.com" />
+          <option name="userName" value="aiden-72" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.daumkakao.com/pa-dev/clix-aggregate.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.daumkakao.com/peter-kang/reactor-test.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/thecodegang/clean-architecture-example.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.daumkakao.com&quot;" />
           <option name="userName" value="aiden.72" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.daumkakao.com/kakao-keyword-ad/kakao-keyword-ad-serving.git" />
+          <option name="url" value="https://github.daumkakao.com/kakao-keyword-ad/kocoon-prometheus.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.daumkakao.com/DKOS/helloworld.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.daumkakao.com/asd/premium-middle.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.daumkakao.com/kakao-keyword-ad/kakao-keyword-ad-log-collector.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.daumkakao.com:asd/ansible-logstash.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.daumkakao.com/asd/ansible-logstash.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.daumkakao.com/asd-incubator/clix-random-keyword-generator.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.daumkakao.com/kakao-keyword-ad/kakao-keyword-ad-index-pm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.daumkakao.com/kage/redicoke-example.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.daumkakao.com/peter-kang/ansible-peter-kang.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/qos-ch/slf4j.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.daumkakao.com/aiden-72/kaos-ts-indexer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.daumkakao.com/ca-tf/kaos-domino-batch-extractor.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.daumkakao.com/ca-tf/kaos-clix-exposelog-extractor.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-guides/gs-multi-module.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ansible/ansible-examples.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.daumkakao.com/ca-tf/kaos-ars-batch-extractor.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.daumkakao.com/ca-tf/kaos-context-trend-indexer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.daumkakao.com/adIntern2021/group1-ad-activity-monitor.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.daumkakao.com/adIntern2021/group1-ad-selection-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.daumkakao.com/adIntern2021/yeoksi.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/kakao-projects" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects/group2" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_TAG_NAMES" value="true" />
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Subject" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+      </list>
+    </option>
   </component>
 </application>
