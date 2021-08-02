@@ -1,0 +1,21 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="https://github.daumkakao.com/ca-tf/context-analysis-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.daumkakao.com" />
+          <option name="userName" value="aiden.72" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.daumkakao.com/kakao-keyword-ad/kakao-keyword-ad-serving.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/kakao-projects" />
+  </component>
+</application>
