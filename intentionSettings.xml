@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Groovy/Expression conversions/Convert Java-Style Array Creation to Groovy Syntax" />
+  </component>
+</application>

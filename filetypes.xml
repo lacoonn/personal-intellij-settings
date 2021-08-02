@@ -1,0 +1,48 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="all" type="AUTO_DETECTED" />
+      <mapping pattern="kafka-to-file" type="AUTO_DETECTED" />
+      <mapping pattern="logstash-action" type="AUTO_DETECTED" />
+      <mapping pattern="hosts" type="AUTO_DETECTED" />
+      <mapping pattern="kaas-log" type="AUTO_DETECTED" />
+      <removed_mapping ext="csv" type="CSV" />
+      <mapping ext="csv" type="CSV/TSV" />
+      <mapping ext="tsv" type="CSV/TSV" />
+      <mapping pattern="*Jenkinsfile*" type="Groovy" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="entrypoint" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
+      <mapping pattern="realtime" type="PLAIN_TEXT" />
+      <mapping pattern="single" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="run_script" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
+      <mapping pattern=".env.prod" type="PLAIN_TEXT" />
+      <mapping pattern="testdata" type="PLAIN_TEXT" />
+      <mapping pattern=".matrixclirc" type="PLAIN_TEXT" />
+      <mapping pattern=".project.info" type="PLAIN_TEXT" />
+      <mapping pattern="webpage.adoc" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="options" type="PLAIN_TEXT" />
+      <mapping ext="adoc" type="PLAIN_TEXT" />
+      <mapping ext="prod" type="PLAIN_TEXT" />
+      <removed_mapping ext="tsv" type="TSV" />
+      <mapping pattern="write_host_to_known_hosts.yaml" type="YAML" />
+      <removed_mapping ext="adoc" approved="true" type="AsciiDoc" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern="kafkaToFile" approved="true" type="YAML" />
+      <removed_mapping pattern="write_host_to_known_hosts" approved="true" type="YAML" />
+    </extensionMap>
+  </component>
+</application>
