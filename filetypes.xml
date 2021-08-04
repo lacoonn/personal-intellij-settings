@@ -24,7 +24,6 @@
       <mapping pattern="single" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="options" type="PLAIN_TEXT" />
-      <mapping ext="adoc" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping pattern="write_host_to_known_hosts.yaml" type="YAML" />
       <removed_mapping ext="adoc" approved="true" type="AsciiDoc" />
