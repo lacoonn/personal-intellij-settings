@@ -114,9 +114,13 @@
           <option name="url" value="https://github.daumkakao.com/adIntern2021/yeoksi.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.daumkakao.com/ca-tf/kaos-context-analyzer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/projects/group2" />
+    <option name="cloneParentDir" value="$USER_HOME$/kakao-projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
