@@ -146,6 +146,10 @@
           <option name="url" value="https://github.daumkakao.com/kakao-keyword-ad/failed-log-collector.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.daumkakao.com/kakao-keyword-ad/kaas-druid-preprocess.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/kakao-projects" />
