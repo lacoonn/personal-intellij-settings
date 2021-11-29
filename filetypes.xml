@@ -6,6 +6,8 @@
       <mapping pattern="kafka-to-file" type="AUTO_DETECTED" />
       <mapping pattern="kaas-log" type="AUTO_DETECTED" />
       <mapping pattern="logstash-action" type="AUTO_DETECTED" />
+      <mapping ext="csv" type="CSV file" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping pattern="*Jenkinsfile*" type="Groovy" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
