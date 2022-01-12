@@ -202,9 +202,13 @@
           <option name="url" value="https://github.daumkakao.com/ca-tf/data-stream-khp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:ev-moon/be-w34-spring-cafe.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/kakao-projects" />
+    <option name="cloneParentDir" value="$USER_HOME$/reviewers/jayde" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
